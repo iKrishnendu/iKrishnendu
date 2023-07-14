@@ -1,7 +1,7 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
 <h1 align="center">Hi 👋, I'm Krishnendu Sahoo</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" style="border-radius:50%">
+
 
 
 
