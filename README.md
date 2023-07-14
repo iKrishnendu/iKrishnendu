@@ -1,7 +1,7 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
 <h1 align="center">Hi 👋, I'm Krishnendu Sahoo</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" style="border-radius:50%">
 
 
 
@@ -19,12 +19,16 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krishnendu_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnendu_in" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishnendusahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnendusahoo" height="30" width="40" /></a>
-<a href="https://instagram.com/i.m.krishnendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m.krishnendu" height="30" width="40" /></a>
+
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://sahoo.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/krishnendusahoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/i.m.krishnendu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:krishnendusahoo.edu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
+
 
 <h4 align="center">Tech & Tools Preference ⚙️</h4>
 
@@ -54,13 +58,14 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrishnendu&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrishnendu&langs_count=10&theme=buefy&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ikrishnendu&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ikrishnendu&show_icons=true&theme=buefy" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrishnendu&theme=transparent" alt="ikrishnendu" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrishnendu&theme=buefy" alt="ikrishnendu" /></p>
+
 
 <h4 align="center">Random Dev Quote ✍️</h4>
 
@@ -68,20 +73,9 @@
 
 
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
+
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [iKrishnendu](https://github.com/iKrishnendu)
