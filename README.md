@@ -26,7 +26,7 @@
 <a href="https://instagram.com/i.m.krishnendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m.krishnendu" height="30" width="40" /></a>
 </p>
 
-### Tech & Tools Preference
+<h4 align="center">Tech & Tools Preference ⚙️</h4>
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -47,6 +47,8 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
+
+<h4 align="center">Visitor's Count 👀</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ikrishnendu}/count.svg" alt="Krishnendu :: Visitor's Count" /></p>
 
