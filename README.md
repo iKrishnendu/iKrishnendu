@@ -23,15 +23,16 @@
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://sahoo.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/krishnendusahoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/i.m.krishnendu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:krishnendusahoo.edu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://sahoo.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-sahoo.vercel.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/krishnendusahoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Krishnendu%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/i.m.krishnendu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i.m.krishnendu-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:krishnendusahoo.edu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-krishnendusahoo.edu@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<br/>
 
 <h4 align="center">Tech & Tools Preference ⚙️</h4>
-
+<div align="center">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -50,15 +51,20 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-
+</div>
+<br/>
 
 <h4 align="center">Visitor's Count 👀</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ikrishnendu}/count.svg" alt="Krishnendu :: Visitor's Count" /></p>
 
+<br/>
+
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrishnendu&langs_count=10&theme=buefy&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<br/>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
