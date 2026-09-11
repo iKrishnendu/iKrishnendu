@@ -1,80 +1,108 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
-<h1 align="center">Hi 👋, I'm Krishnendu Sahoo</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+# 👋 Hi, I'm Krishnendu Sahoo
 
+### Full Stack Developer | MERN | MEAN | Java | Software Developer
 
+I’m a Full Stack Developer passionate about building modern, scalable, and user-focused web applications.
 
+I work across both frontend and backend development, with experience in building responsive interfaces, REST APIs, authentication systems, database-driven applications, and production-ready web solutions.
 
-
-
-- 🏫 I’m currently studying at **Techno India, Batanagar**
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [sahoo.vercel.app](https://sahoo.vercel.app/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **Krishnendusahoo.mail@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://sahoo.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-sahoo.vercel.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/krishnendusahoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Krishnendu%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/i.m.krishnendu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i.m.krishnendu-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:krishnendusahoo.edu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-krishnendusahoo.edu@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p align="left">
+  <a href="https://sahoo.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krishnendusahoo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Krishnendusahoo.mail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<br/>
+---
 
-<h4 align="center">Tech & Tools Preference ⚙️</h4>
-<div align="center">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-</div>
-<br/>
+## 👨‍💻 About Me
 
-<h4 align="center">Visitor's Count 👀</h4>
+- 💻 Full Stack Developer specializing in the **MERN Stack**
+- ⚛️ Building modern web applications with **React.js**
+- 🔧 Developing backend services using **Node.js and Express.js**
+- 🗄️ Working with **MongoDB and MySQL**
+- 🔐 Interested in authentication, REST APIs, and backend architecture
+- 🚀 Passionate about building real-world software solutions
+- 🌱 Continuously improving my skills in **JavaScript, React, Node.js, and System Design**
+- 📂 Portfolio: **[sahoo.vercel.app](https://sahoo.vercel.app/)**
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ikrishnendu}/count.svg" alt="Krishnendu :: Visitor's Count" /></p>
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-<h4 align="center">Top langs :tongue:</h4>
+### Frontend
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrishnendu&langs_count=10&theme=buefy&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-<br/>
+### Backend
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API"/>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ikrishnendu&show_icons=true&theme=buefy" alt="AnhellO :: Profile Stats" /></p>
+### Database
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrishnendu&theme=buefy" alt="ikrishnendu" /></p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
+### Tools & Platforms
 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+</p>
 
-<br/>
+---
 
+## 💡 Currently
 
-⭐️ From [iKrishnendu](https://github.com/iKrishnendu)
+- 🔨 Building full-stack web applications
+- ⚛️ Improving React and frontend architecture skills
+- 🧠 Strengthening JavaScript and problem-solving skills
+- 🔧 Improving backend development with Node.js and Express
+- 📚 Learning scalable application and system design
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://sahoo.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishnendusahoo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:Krishnendusahoo.mail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
